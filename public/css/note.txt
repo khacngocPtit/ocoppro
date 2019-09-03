@@ -1,0 +1,2 @@
+- chỉ có file style.css là import vào trong master-layout các file  css của từng trang các anh import vào riêng các trang của mình nha tránh lỗi 
+- đề nghị các anh làm xong lưu file back-up tránh trường hợp pull về bị lỗi nha
