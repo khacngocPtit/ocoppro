@@ -15,3 +15,12 @@ Route::get('/', function () {
     return view('master-layout');
 });
 
+
+Route::get('/dich-vu', function () {
+    return view('pages.dich-vu');
+});
+
+Route::get('/blog', function () {
+    return view('pages.blog');
+});
+
