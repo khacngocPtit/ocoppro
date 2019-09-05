@@ -23,4 +23,13 @@ Route::get('/dich-vu', function () {
 Route::get('/blog', function () {
     return view('pages.blog');
 });
-
+	
+Route::get('/dangki',function(){
+	return view('dangki.dangki');
+});
+Route::get('/dangnhap',function(){
+	return view('dangki.dangnhap');
+});
+Route::get('/giohang',function(){
+	return view('dangki.giohang');
+});
