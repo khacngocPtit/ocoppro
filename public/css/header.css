@@ -119,12 +119,11 @@ img{
   margin-top: 0px;
 }
 .ip-tim{
-	width: 90%;
+	width: 250px;
 	height: 40px;
 	border-radius: 100px;
 	border: none;
 	position: relative;
-	margin-left: 5%;
 }
 .search{
 	cursor: pointer;
@@ -209,6 +208,7 @@ img{
 	.sidenav {
 		padding-top: 20%;
 	}
+	
 }
 @media (min-width: 411px) and (max-width: 767px){
 	#header1,
@@ -227,6 +227,7 @@ img{
 	.sidenav {
 		padding-top: 20%;
 	}
+	
 }
 @media (min-width: 411px) and (max-width: 767px){
 	#header1,
@@ -245,6 +246,7 @@ img{
 	.sidenav {
 		padding-top: 20%;
 	}
+	
 }
 @media (min-width: 768px) and (max-width: 1023px){
 	#header1,
@@ -263,6 +265,7 @@ img{
 	.sidenav {
 		padding-top: 20%;
 	}
+
 }
 @media (min-width: 1024px) and (max-width: 1025px){
 	.ip-tim{
