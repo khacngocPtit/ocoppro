@@ -23,7 +23,7 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-xs-12">
+			<div class="col-lg-12">
 				<div class="table-responsive">
 					<table class="table table-borderd table-hover">
 						<thead>
