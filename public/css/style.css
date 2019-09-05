@@ -26,15 +26,14 @@ img{
 .ic:hover{
 	color: #11B5E6; 
 }
+
 .img-header{
 	width: 35px;
 	height: 35px;
 	margin-top: 4px;
 
 }
-.top-center{
-	
-}
+
 .text-visit{
 	margin-left: 23%;
 	margin-top: 3%;
@@ -48,9 +47,7 @@ img{
 	display: inline-block;
     color: #002e5b;
 }
-.text-header{
-	
-}
+
 .text-top1:hover{
 	color: #11B5E6; 
 	text-decoration: none;
