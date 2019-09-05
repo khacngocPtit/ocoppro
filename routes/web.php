@@ -11,6 +11,16 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+
+
+Route::get('/dich-vu', function () {
+    return view('pages.dich-vu');
 });
+
+Route::get('/blog', function () {
+    return view('pages.blog');
+});
+
