@@ -11,9 +11,9 @@
 |
 */
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
+Route::get('/', function () {
+    return view('master-layout');
+});
 
 
 Route::get('/dich-vu', function () {
