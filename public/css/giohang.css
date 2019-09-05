@@ -1,0 +1,22 @@
+.pannel-body{
+	margin-top: 50px;
+	
+	padding: 15px ;
+	width:100%;
+	font-size: 25px;
+	font-weight: 700;
+	color: #fd7e14;
+}
+.table-responsive{
+	margin-top: 20px;
+
+}
+.img-giohang1{
+	width: 150px !important;
+	height:150px !important;
+
+}
+.fas{
+	margin-left: 15px;
+
+}
