@@ -43,8 +43,8 @@
 
 				<div class="menu-content container text-right">
 					<a class="menu-content1" href="">Trang chủ</a>
-					<a class="menu-content1" href="">Dịch vụ</a>
-					<a class="menu-content1" href="">Blog</a>
+					<a class="menu-content1" href="{{ route('dich-vu') }}">Dịch vụ</a>
+					<a class="menu-content1" href="{{ route('blog') }}">Blog</a>
 					<a class="menu-content1" href="">Giới thiệu</a>
 					<a class="menu-content1 new" href="">Tài Khoản <i class="fas fa-caret-down"></i>
 						<ul class="menu-con">
