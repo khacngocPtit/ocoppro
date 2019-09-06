@@ -64,7 +64,6 @@
 
 		</div>
 	</header>
-	@include('slide/slide-trangchu')
 	<div id="mySidenav" class="sidenav" style="z-index: 999">
 		
 		<div class="menu-rsp-full">

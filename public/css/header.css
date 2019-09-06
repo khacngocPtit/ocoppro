@@ -119,7 +119,7 @@ img{
   margin-top: 0px;
 }
 .ip-tim{
-	width: 250px;
+	width: 250px !important;
 	height: 40px;
 	border-radius: 100px;
 	border: none;
@@ -188,8 +188,8 @@ img{
 }
 .ic1{
 	color: #11B5E6;
-	margin-top: -11%;
-    margin-left: 87%;
+	margin-top: 5%;
+    margin-left: -10%;
 }
 @media (min-width: 320px) and (max-width: 410px){
 	#header1,

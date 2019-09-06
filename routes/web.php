@@ -12,9 +12,8 @@
 */
 
 Route::get('/', function () {
-    return view('master-layout');
-});
-
+    return view('pages.index');
+})->name('trang-chu');
 
 Route::get('/dich-vu', function () {
     return view('pages.dich-vu');
@@ -33,6 +32,4 @@ Route::get('/dangnhap',function(){
 Route::get('/giohang',function(){
 	return view('dangki.giohang');
 });
-Route::get('/slide',function(){
-	return view('slide/slide-trangchu');
-});
+
