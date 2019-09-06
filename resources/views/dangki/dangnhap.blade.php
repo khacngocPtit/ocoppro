@@ -1,11 +1,9 @@
-@extends('master-layout')
-
-@section('content')
-
+</head>
+<body>
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-4 m-auto">
-				<h1 class="text-center">Đăng nhập</h1>
+				<h1 class="text">Đăng nhập</h1>
 				<div class="form">
 					<input class="input-full" type="text" placeholder="Email">
 					<input class="input-full" type="text" placeholder="Mật khẩu">
@@ -19,4 +17,5 @@
 			</div>
 		</div>
 	</div>
-@endsection
+</body>
+</html>

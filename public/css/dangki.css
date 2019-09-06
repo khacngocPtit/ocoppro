@@ -10,7 +10,6 @@ body {
     border-radius:5%;
     color:#637281;
 }
-
 .btn-full{
 	border: 1px solid #11b5e6;
 	background:#11b5e6;
@@ -21,63 +20,35 @@ body {
 	text-transform: uppercase;
 	color: #fff;
 }
-
 .btn-full:hover{
 	background: #012d59;
 	color: #fff;
 }
-
 .text-link{
 	text-align: center;
 	display: block;
 	text-decoration: none !important;
 	color: #11b5e6;
 }
-
 a:hover{
 	color:#11b5e6 !important;
 }
-/*css giỏ hàng*/
-h2.title-giohang{
-	padding: 30px;	
-	font-weight:700;
-}
-.text{
-	text-decoration: none;
-}
 
-a:hover{
-	text-decoration: none;
-}
-h3.text{
-	color: #333;
-}
-.sub-text{
-	color: #333 !important;
-}
-.image{
-	border-radius:10%;
-	overflow: hidden;
-	margin-right:20px;
-	width: 250px;
-	height: 250px;
-
+.giohang{
+	color: #637281 !important;
+	margin-top:50px;
+	margin-left:15px;
+	font-weight: normal;
 
 }
-.img-giohang{
-	background-size: cover;
-	background-position:center;
-	width: 250px;
-	height: 250px;
-
+.text-giohang{
+	color: #637281 ;
+	
 }
-.img-giohang:hover{
-	transform: scale(1.2);
-	transition: all 0.4s;
-
+.text-link1{
+	text-decoration: none !important;
+	color: #11b5e6;
 }
-.title{
-	margin:20px;
+.text-link1 a:hover{
+	color: #11b5e6;
 }
-
-

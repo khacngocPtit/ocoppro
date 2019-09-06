@@ -4,7 +4,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-4 m-auto dangki">
-				<h1 class="text">Tạo tài khoản</h1>
+				<h1 class="text-center">Tạo tài khoản</h1>
 				<div class="form">
 					<input class="input-full" type="text" placeholder="Tên">
 					<input class="input-full" type="text" placeholder="Họ">

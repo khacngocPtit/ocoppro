@@ -31,5 +31,8 @@ Route::get('/dangki',function(){
 Route::get('/dangnhap',function(){
 	return view('dangnhap.dangnhap');
 });
+Route::get('/giohang',function(){
+	return view('dangnhap.giohang');
+});
 
 
