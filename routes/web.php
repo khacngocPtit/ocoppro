@@ -24,15 +24,12 @@ Route::get('/blog', function () {
     return view('pages.blog');
 });
 	
+// 
 Route::get('/dangki',function(){
-	return view('dangki.dangki');
+	return view('dangnhap.dangki');
 });
 Route::get('/dangnhap',function(){
-	return view('dangki.dangnhap');
+	return view('dangnhap.dangnhap');
 });
-Route::get('/giohang',function(){
-	return view('dangki.giohang');
-});
-Route::get('/sanpham',function(){
-	return view('dangki.sanpham');
-});
+
+
