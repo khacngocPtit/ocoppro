@@ -64,7 +64,8 @@
 
 		</div>
 	</header>
-	<div id="mySidenav" class="sidenav">
+	@include('slide/slide-trangchu')
+	<div id="mySidenav" class="sidenav" style="z-index: 999">
 		
 		<div class="menu-rsp-full">
 			<input type="text" placeholder="  Tìm kiếm..." class="ip-tim">

@@ -9,6 +9,7 @@
 @endsection
 
 @section('content')
+
 	<section class="blog-wrap mt-5 mb-3">
 		<div class="container">
 			<div class="row">

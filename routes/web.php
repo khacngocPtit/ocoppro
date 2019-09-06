@@ -33,3 +33,6 @@ Route::get('/dangnhap',function(){
 Route::get('/giohang',function(){
 	return view('dangki.giohang');
 });
+Route::get('/slide',function(){
+	return view('slide/slide-trangchu');
+});
