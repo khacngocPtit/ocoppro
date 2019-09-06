@@ -18,11 +18,11 @@ Route::get('/', function () {
 
 Route::get('/dich-vu', function () {
     return view('pages.dich-vu');
-});
+})->name('dich-vu');
 
 Route::get('/blog', function () {
     return view('pages.blog');
-});
+})->name('blog');
 	
 // 
 Route::get('/dangki',function(){
